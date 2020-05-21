@@ -5191,6 +5191,11 @@ terser@^4.1.2:
     source-map "~0.6.1"
     source-map-support "~0.5.12"
 
+test-node-gyj@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/test-node-gyj/-/test-node-gyj-1.0.0.tgz#6ccd444c2cf9e2f8e371297a5f708ce9351a80e8"
+  integrity sha512-ayk2/Ewqp60B2EuwoKY72rh/9LwoSeDUVA8kA3PtuJYUoGFgOvNKVj7ZSvTR/UWY+R89WeKjz/YR/Ag6mD9N8g==
+
 through2@^2.0.0:
   version "2.0.5"
   resolved "https://registry.npmjs.org/through2/-/through2-2.0.5.tgz#01c1e39eb31d07cb7d03a96a70823260b23132cd"
